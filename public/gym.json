@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://i.ibb.co.com/hLxyXrg/1.jpg",
+      "title": "Strength Training",
+      "features": [
+        "Professional coaches",
+        "State-of-the-art equipment",
+        "Tailored workout plans"
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.ibb.co.com/rvW6Cwy/2.jpg",
+      "title": "Cardio Workouts",
+      "features": [
+        "Variety of cardio machines",
+        "Group classes available",
+        "Heart rate monitoring"
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.ibb.co.com/PYrVLTC/3.jpg",
+      "title": "Yoga Classes",
+      "features": [
+        "Certified yoga instructors",
+        "Classes for all levels",
+        "Relaxing atmosphere"
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.ibb.co.com/7t0cqX3/4.jpg",
+      "title": "Personal Training",
+      "features": [
+        "Customized workout plans",
+        "Motivational support",
+        "Progress tracking"
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.ibb.co.com/8KJLxft/5.jpg",
+      "title": "Nutrition Plans",
+      "features": [
+        "Personalized meal plans",
+        "Dietary guidance",
+        "Support for weight loss or muscle gain"
+      ]
+    }
+  ]
+  
