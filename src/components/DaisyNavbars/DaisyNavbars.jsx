@@ -43,7 +43,7 @@ const DaisyNavbars = () => {
                     menuBtn === true ?  <RiMenu2Line ></RiMenu2Line> : <RiMenu2Line ></RiMenu2Line>
                 }
             </div>
-            <ul className={`md:flex gap-12 absolute md:static duration-500 font-semibold bg-orange-700 px-8 rounded-md text-white ${menuBtn ? 'top-8' : '-top-96'}`}>
+            <ul className={`md:flex gap-12 absolute md:static duration-500 font-semibold bg-orange-700 px-8 rounded-md text-white z-20 ${menuBtn ? 'top-8' : '-top-96'}`}>
                 {
                     navData.map(data => <DaisyNavbar key={data.id} data={data}></DaisyNavbar>)
                 }
