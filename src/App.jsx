@@ -3,6 +3,7 @@ import Cards from './components/Cards/Cards'
 import Chart from './components/Chart/Chart'
 import ChartTwo from './components/ChartTwo/ChartTwo'
 import DaisyNavbars from './components/DaisyNavbars/DaisyNavbars'
+import Phones from './components/Phones/Phones'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Cards></Cards>
       <Chart></Chart>
       <ChartTwo></ChartTwo>
+      <Phones></Phones>
       </div>
       
     </>
